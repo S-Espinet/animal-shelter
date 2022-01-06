@@ -1,0 +1,40 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+.intro {
+  font-style: italic;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.column {
+  width: 200px;
+  float: left;
+  border: 3px green;
+  padding: 5px;
+  margin: 20px;
+}
+
+.jupiter {
+  background-color: brown;
+  }
+
+.zelda {
+  background-color: red;
+}
+
+.bella {
+  background-color: aqua;
+}
+
+img {
+  width: 200px;
+}
+
+.jupiter a {
+  background-color: yellow;
+}
